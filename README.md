@@ -1,10 +1,9 @@
-
 # 🚀 Neverwinter Nights Enhanced Script Storage
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/neverwinter-nights-enhanced-script-storage)](https://github.com/yourusername/neverwinter-nights-enhanced-script-storage/issues)
-[![Stars](https://img.shields.io/github/stars/yourusername/neverwinter-nights-enhanced-script-storage?style=social)](https://github.com/yourusername/neverwinter-nights-enhanced-script-storage/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/neverwinter-nights-enhanced-script-storage?style=social)](https://github.com/yourusername/neverwinter-nights-enhanced-script-storage/network/members)
+[![Issues](https://img.shields.io/github/issues/Aenanorni/neverwinter-nights-enhanced-script-storage)](https://github.com/Aenanorni/neverwinter-nights-enhanced-script-storage/issues)
+[![Stars](https://img.shields.io/github/stars/Aenanorni/neverwinter-nights-enhanced-script-storage?style=social)](https://github.com/Aenanorni/neverwinter-nights-enhanced-script-storage/stargazers)
+[![Forks](https://img.shields.io/github/forks/Aenanorni/neverwinter-nights-enhanced-script-storage?style=social)](https://github.com/Aenanorni/neverwinter-nights-enhanced-script-storage/network/members)
 
 ## 📚 Table of Contents
 - [Features](#features)
@@ -21,7 +20,7 @@
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/yourusername/neverwinter-nights-enhanced-script-storage.git
+git clone https://github.com/Aenanorni/neverwinter-nights-enhanced-script-storage.git
 ```
 Copy the scripts into your NWN:EE module directory and follow the usage instructions.
 

@@ -1,1 +1,22 @@
-// Placeholder for .gitignore
+# Neverwinter Nights Enhanced Script Storage - Git Ignore
+
+# Ignore compiled NWN files
+*.ncs
+*.ndb
+*.mod
+*.erf
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.code-workspace

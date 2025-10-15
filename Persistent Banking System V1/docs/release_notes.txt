@@ -1,9 +1,0 @@
-
-Release Notes - Banking System v1.0
------------------------------------
-Initial release includes:
-- Persistent item and gold storage
-- NPC banker with dialogue options
-- Admin tools for DMs
-- SQLite database schema
-- Full documentation and modular script layout

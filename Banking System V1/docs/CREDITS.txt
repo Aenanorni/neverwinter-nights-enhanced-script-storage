@@ -1,8 +1,0 @@
-Credits
--------
-Author / Primary Maintainer: Aenanorni
-
-Notes
------
-- This package is provided as a starting point and intentionally keeps v1.0 simple and modular.
-- If you wish, I can produce an expanded version that integrates NWNX for full object serialization and CD-key identification.

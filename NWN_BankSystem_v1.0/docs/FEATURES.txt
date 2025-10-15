@@ -1,0 +1,10 @@
+Banking System v1.0 - Feature List
+----------------------------------
+- Persistent player accounts (campaign variables)
+- Deposit gold (removes gold from PC inventory and adds to account)
+- Withdraw gold (creates gold on PC from account balance)
+- Transfer funds between players
+- Simple item vault that stores item template resrefs and stack counts (limited)
+- Dialog/action-ready helper functions for NPC/placeable integration
+- Basic security checks: disallow in-combat and polymorphed access
+- Modular script layout for easy extension
